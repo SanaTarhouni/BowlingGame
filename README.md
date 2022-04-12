@@ -1,2 +1,2 @@
 # BowlingGame
-## Kata exercise with javascript and jest for testing 
+## Bowling game Kata exercise with javascript  
