@@ -1,0 +1,14 @@
+{
+  "name": "bowlingame",
+  "version": "1.0.0",
+  "description": "bowling game kata",
+  "main": "bowlingGame.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sana",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
